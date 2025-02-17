@@ -1,0 +1,14 @@
+{
+  "name": "hw3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node": "^23.8.0"
+  }
+}
